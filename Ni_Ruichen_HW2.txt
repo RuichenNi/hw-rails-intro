@@ -1,2 +1,2 @@
-Heroku link: https://immense-headland-51921.herokuapp.com/
+Heroku link: http://immense-headland-51921.herokuapp.com/
 Github: https://github.com/RuichenNi/hw-rails-intro/
